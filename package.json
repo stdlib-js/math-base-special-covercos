@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-covercos",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Compute the coversed cosine.",
   "license": "Apache-2.0",
   "author": {
