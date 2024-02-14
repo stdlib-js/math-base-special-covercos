@@ -63,7 +63,7 @@ The [coversed cosine][coversed-cosine] is defined as
 ## Usage
 
 ```javascript
-import covercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-covercos@deno/mod.js';
+import covercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-covercos@v0.2.0-deno/mod.js';
 ```
 
 #### covercos( x )
@@ -94,7 +94,7 @@ v = covercos( -3.141592653589793/6.0 );
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-two-pi@deno/mod.js';
-import covercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-covercos@deno/mod.js';
+import covercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-covercos@v0.2.0-deno/mod.js';
 
 var x = linspace( 0.0, TWO_PI, 100 );
 
