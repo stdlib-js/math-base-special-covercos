@@ -63,7 +63,7 @@ The [coversed cosine][coversed-cosine] is defined as
 ## Usage
 
 ```javascript
-import covercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-covercos@esm/index.mjs';
+import covercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-covercos@v0.3.1-esm/index.mjs';
 ```
 
 #### covercos( x )
@@ -100,7 +100,7 @@ v = covercos( -3.141592653589793/6.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-two-pi@esm/index.mjs';
-import covercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-covercos@esm/index.mjs';
+import covercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-covercos@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
